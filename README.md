@@ -1,7 +1,8 @@
 # Malletta: A User-Friendly Access Database
 
 This project was the subject of my second year internship.  
-Malletta Database is a desktop application that allow the INPT's financial department to enter, store and edit data along with applying calculations and filters, in order to get more relevant and useful data.
+Malletta Database is a desktop application that allow the INPT's financial department to enter, store and edit data along with applying calculations and filters, in order to get more relevant and useful data.  
+>This repo contains a **production version** as well as a **development version** of the database.
 
 ![demo](images/demo.gif "demo")
 
