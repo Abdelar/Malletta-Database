@@ -33,7 +33,7 @@ Malletta Database is a desktop application that allow the INPT's financial depar
 
 ## Development Version
 
-> You may want to remove this code from the welcome page load event in the development version to toggle on the **ribbon** and have it visible by default.
+> You may want to remove this `code` from the welcome page load event in the development version to toggle on the **ribbon** and have it visible by default.
 
 ``` Visual-basic
 Private Sub Form_Load()
@@ -53,18 +53,18 @@ End Sub
 
 ![form](images/SituationFinancière.PNG "A Submenu")
 
-## Exemple of a Form Page
+## Example of a Form Page
 
-Used for data entry.
+Perfect for data entry.
 
-![form](images/Opérations.PNG "A Form Page")
+![form](images/Opérations.PNG "Form Example")
 
-## Exemple of a Report Page
+## Example of a Report Page
 
 A report prepare data to be printed or exported in many formats.
 
-![form](images/Projects.PNG "A Report Page")
+![form](images/Projects.PNG "Report Example")
 
 ## More Stuff
 
-Check out some of my other project on my [personal website](https://abdelar.github.io "My Personal Website"). You can follow me on [LinkedIn](https://www.linkedin.com/in/elaroussi/ "My LinkedIn Page") or check out my [art portfolio](https://www.behance.net/elaroussi "My Behance Page").
+Check out some of my other project on my [personal website](https://abdelar.github.io "My Personal Website"). You can follow me on [LinkedIn](https://www.linkedin.com/in/elaroussi/ "LinkedIn Page") or check out my [art portfolio](https://www.behance.net/elaroussi "Behance Page").
