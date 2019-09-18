@@ -67,4 +67,4 @@ A report prepare data to be printed or exported in many formats.
 
 ## More Stuff
 
-Check out some of my other projects on my [personal website](https://abdelar.github.io "My Personal Website"). You can follow me on [LinkedIn](https://www.linkedin.com/in/elaroussi/ "LinkedIn Page") or check out my [art portfolio](https://www.behance.net/elaroussi "Behance Page").
+Check out some of my other projects on my [personal website](https://abdelar.github.io "My Personal Website"). You can follow me on [LinkedIn](https://www.linkedin.com/in/elaroussi/ "LinkedIn Page") or check out my [art portfolio](https://dribbble.com/Elaroussi "Dribbble Page").
